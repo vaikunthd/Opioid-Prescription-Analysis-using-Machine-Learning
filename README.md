@@ -81,11 +81,10 @@ My analysis revealed:
 <details>
 <summary>📈 View Detailed Results</summary>
 
-| Model | RMSE | MAE | R² Score |
-|-------|------|-----|----------|
-| Random Forest | 0.85 | 0.67 | 0.79 |
-| XGBoost | 0.82 | 0.64 | 0.81 |
-| Linear Regression | 1.12 | 0.89 | 0.65 |
+| Model | Precision | Recall | f1-score | Accuracy |
+|-------|------|-----|----------|----------|
+| Decision Tree | 0.71 | 0.86 | 0.77 | 0.75 |
+| Logistic Regression | 0.71 | 0.90 | 0.88 | 0.77 |
 
 </details>
 
