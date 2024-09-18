@@ -69,6 +69,7 @@ pip install -r requirements.txt
 
 # Run the Jupyter notebook
 jupyter notebook Opioid_Prescription_Analysis.ipynb
+```
 
 ## 📊 Key Findings
 
