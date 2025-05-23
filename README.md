@@ -6,6 +6,10 @@
 
 ---
 
+## 📝 Background
+
+The opioid crisis has become a significant public health challenge, with prescription patterns playing a critical role in its evolution. This project was created to analyze opioid prescription data using machine learning, aiming to uncover patterns and insights that can inform healthcare policies and interventions.
+
 ## 🔍 Project Synopsis
 
 This project delves into the intricate world of opioid prescriptions, leveraging machine learning techniques to analyze patterns, predict trends, and uncover insights that could potentially impact public health policies.
@@ -87,6 +91,12 @@ My analysis revealed:
 | Logistic Regression | 0.71 | 0.90 | 0.88 | 0.77 |
 
 </details>
+
+## ⚠️ Limitations
+
+- The analysis is based on aggregated and historical data, which may not capture recent trends or individual-level variations.
+- Data availability and quality may limit the depth of insights, especially regarding unrecorded prescriptions or underreported regions.
+- The predictive models are subject to the features and variables present in the dataset; external factors (such as policy changes or new regulations) are not directly accounted for.
 
 ## 🎯 Future Directions
 
